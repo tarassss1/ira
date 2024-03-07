@@ -1,0 +1,162 @@
+header a {
+    font-size: 23px;
+    border: 3px solid IndianRed	 ;
+    background-color: DarkSalmon;
+    color: white;
+    border-radius: 10px;
+    
+}
+
+.e{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.n{
+    margin-top: 33px;
+} 
+.v{
+    margin-top: 23px;
+     
+}
+header{
+    background-color: Moccasin;
+}
+body{
+    background-color: LemonChiffon;
+}
+header h1{
+    
+}
+span{
+    color: FireBrick;
+}
+.r{
+    display: flex;
+    
+    margin-top: 20px;
+    margin-left: 20px;
+    }
+.re{
+    font-size: 15px;
+    margin-right: 20px;
+    border: 3px solid DarkSalmon;
+    background-color: PeachPuff;
+    color: DarkRed;
+    border-radius: 12px;
+    padding: 4px;
+    
+}
+main div{
+    margin-left: 20px;
+}
+main a{
+    font-size: 20px;
+    border: 1px solid IndianRed;
+    padding: 5px;
+}
+.u{
+    padding-right: 60px;
+}
+.uu{
+    background-color: PeachPuff;
+}
+h2{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+img{
+    width: 400px;
+}
+.pas{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+main h3{
+    color:DarkRed ;
+    text-decoration: underline;
+}
+.paska{
+    background-color: Moccasin;
+    border: 2px solid IndianRed	 ;
+    text-align: center;
+    border-radius: 5px;
+}
+.plia{
+    background-color: Moccasin;
+    border: 2px solid IndianRed	 ;
+     text-align: center;
+    border-radius: 5px;
+}
+.vus{
+    background-color: Moccasin;
+    border: 2px solid IndianRed	 ;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.man{
+    background-color: Moccasin;
+    border: 2px solid IndianRed	 ;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.pol{
+    background-color: Moccasin;
+    border: 2px solid IndianRed	 ;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+li{
+    margin: 10px;
+    border-bottom: 1px solid IndianRed;
+    text-align: center;
+    color: SaddleBrown;
+}
+.vid{
+    text-align: left;
+
+}
+.vidguku{
+    color:SeaGreen;
+    border: 1px double SeaGreen;
+    background-color: PaleGoldenrod;
+}
+.vidguku1{
+    font-size: 12px;
+    color: black;
+}
+.pip{
+    border: 1px solid IndianRed;
+    margin: 5px;
+    border-radius: 5px;
+    float: left;
+    padding: 7px ;
+    padding-right: 20px;
+}
+.obrane{
+    color: GoldenRod;
+    border: 2px dotted GoldenRod;
+    background-color: rgb(255, 247, 174);
+}
+footer{
+    background-color: Moccasin;
+    border-top: 1px solid IndianRed;
+}
+table{
+    padding-bottom: 50px;
+    padding-top: 15px;
+    font-size: 14px;
+    color: Sienna;
+}
+td{
+    padding: 10px 100px 1px 10px;
+    text-decoration: 1px underline;
+}
+.b{
+    font-size: 16px;
+    text-decoration: none;
+}
