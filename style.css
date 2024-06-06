@@ -1,162 +1,102 @@
-header a {
-    font-size: 23px;
-    border: 3px solid IndianRed	 ;
-    background-color: DarkSalmon;
-    color: white;
-    border-radius: 10px;
-    
+body{
+	margin: 0;
+	padding: 0;
+	background-color: Snow ;
 }
 
-.e{
-    display: flex;
-    justify-content: space-between;
-    justify-content: space-around;
-}
-.n{
-    margin-top: 33px;
-} 
-.v{
-    margin-top: 23px;
-     
+
+header h1{
+	color:#581845 ;
+	margin: 5px;
+	margin-bottom: 0px;
+	margin-top: 8px;
+	font-family: "Rubik Doodle Shadow", system-ui;
+
+	
+	
 }
 header{
-    background-color: Moccasin;
-}
-body{
-    background-color: LemonChiffon;
-}
-header h1{
-    
-}
-span{
-    color: FireBrick;
-}
-.r{
-    display: flex;
-    
-    margin-top: 20px;
-    margin-left: 20px;
-    }
-.re{
-    font-size: 15px;
-    margin-right: 20px;
-    border: 3px solid DarkSalmon;
-    background-color: PeachPuff;
-    color: DarkRed;
-    border-radius: 12px;
-    padding: 4px;
-    
-}
-main div{
-    margin-left: 20px;
-}
-main a{
-    font-size: 20px;
-    border: 1px solid IndianRed;
-    padding: 5px;
-}
-.u{
-    padding-right: 60px;
-}
-.uu{
-    background-color: PeachPuff;
-}
-h2{
-    margin-left: 20px;
-    margin-top: 30px;
-}
-img{
-    width: 400px;
-}
-.pas{
-    display: flex;
-    flex-wrap: wrap;
-    margin-bottom: 10px;
-}
-main h3{
-    color:DarkRed ;
-    text-decoration: underline;
-}
-.paska{
-    background-color: Moccasin;
-    border: 2px solid IndianRed	 ;
-    text-align: center;
-    border-radius: 5px;
-}
-.plia{
-    background-color: Moccasin;
-    border: 2px solid IndianRed	 ;
-     text-align: center;
-    border-radius: 5px;
-}
-.vus{
-    background-color: Moccasin;
-    border: 2px solid IndianRed	 ;
-    text-align: center;
-    margin-top: 20px;
-    border-radius: 5px;
-}
-.man{
-    background-color: Moccasin;
-    border: 2px solid IndianRed	 ;
-    text-align: center;
-    margin-top: 20px;
-    border-radius: 5px;
-}
-.pol{
-    background-color: Moccasin;
-    border: 2px solid IndianRed	 ;
-    text-align: center;
-    margin-top: 20px;
-    border-radius: 5px;
-}
-li{
-    margin: 10px;
-    border-bottom: 1px solid IndianRed;
-    text-align: center;
-    color: SaddleBrown;
-}
-.vid{
-    text-align: left;
+	text-align: center;
+	background-image: url(konf.webp);
+	position: fixed;
+	top: 0;
+	width: 100%;
 
 }
-.vidguku{
-    color:SeaGreen;
-    border: 1px double SeaGreen;
-    background-color: PaleGoldenrod;
+	
+	
+header p{
+  margin: 0px;
+  width: 100%;
 }
-.vidguku1{
-    font-size: 12px;
-    color: black;
+
+a{
+	text-decoration: none;
+	margin: 50px;
+	font-size: 18px;
+	color: MediumVioletRed	;
+	font-family: "Courgette", cursive;
+
+
+	
 }
-.pip{
-    border: 1px solid IndianRed;
-    margin: 5px;
-    border-radius: 5px;
-    float: left;
-    padding: 7px ;
-    padding-right: 20px;
+nav{
+	margin-top: 18px;
+	border-bottom: 1px solid MistyRose;
+	border-top: 1px solid MistyRose;
+	padding: 5px;
+	background-color:Snow ;
 }
-.obrane{
-    color: GoldenRod;
-    border: 2px dotted GoldenRod;
-    background-color: rgb(255, 247, 174);
+main h2{
+	font-family: "Lobster", sans-serif;
+	color:#581845 ;
+}
+main p{
+	font-family: "Advent Pro", sans-serif;
+}
+main h3{
+	font-family: "Lobster", sans-serif;
+	color:#581845 ;
+}
+.o{
+	background-color: ;
+}
+main img{
+	width: 420px;
+	height: 300px;
+	margin: 0px 0px 0px 70px;
+}
+ul{
+	font-family: "Advent Pro", sans-serif;
+
 }
 footer{
-    background-color: Moccasin;
-    border-top: 1px solid IndianRed;
+	background-image: url(konf.webp);
+	color: black;
+	border-top: 1px solid MistyRose;
+	padding: 0px 0px 5px 30px;
+
 }
-table{
-    padding-bottom: 50px;
-    padding-top: 15px;
-    font-size: 14px;
-    color: Sienna;
+footer img{
+	width: 30px;
+	height: 30px;
+	margin: 10px 2px 3px 20px;
+	padding: ;
 }
-td{
-    padding: 10px 100px 1px 10px;
-    text-decoration: 1px underline;
+main{
+	margin: 140px 50px 20px 50px;
 }
-.b{
-    font-size: 16px;
-    text-decoration: none;
+p{
+	width: 70%;
+}
+
+
+footer h4{
+	margin: 5px 80px 0px 20px;
+	font-family: "Lobster", sans-serif;
+}
+footer p{
+	margin:  5px 80px 0px 20px;
+	padding: 0px 0px 0px 2px;
+
 }
